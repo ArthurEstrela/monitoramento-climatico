@@ -34,8 +34,6 @@ Este projeto implementa um sistema distribuído de monitoramento climático util
 
 ## 🖥️ Demonstração
 
-![Sistema Funcionando](https://via.placeholder.com/800x400?text=Dashboard+de+Temperatura+em+Tempo+Real)
-
 ![](image.png)
 
 ## 🛠️ Tecnologias Utilizadas
